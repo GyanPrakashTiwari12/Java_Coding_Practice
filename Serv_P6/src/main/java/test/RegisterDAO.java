@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 
 public class RegisterDAO {
-public int k=0;//No (Zero) rows
+public int k=0;//No (Zero) rows2
 public int register(UserBean ub)
 {
 	try {
